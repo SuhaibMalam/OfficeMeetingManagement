@@ -1,9 +1,60 @@
-# OfficeMeetingManagement
-Hello, here we are going to see how to use this office meeting management system
-The first step is to register by navigating to the register page.
-By doing this the you will be redirted too the homepage
-Now that you have arrived on the homepage you can book meetings
-You can click the "Book Meeting" section to book meetings
-To book a meeting it requires your 1)Your Username 2)The room no for the meeting 3)The Time of the meeting and 4)The date of the meeting.
-After filling all the details you'll see a message "Meeting Booked".
-You can also track your meetings or update or delete your meetings in the "track meeting" section
+Office Meeting Management System
+
+Overview
+
+This is an Office Meeting Management System built using ASP.NET with MS Access as the database. This application allows users to efficiently manage office meetings by booking, tracking, updating, and deleting meetings.
+
+Features
+
+1. User Registration:
+
+Navigate to the Register page to create an account.
+
+After successful registration, you will be redirected to the Homepage.
+
+
+
+2. Book Meetings:
+
+Use the Book Meeting section to schedule new meetings.
+
+Provide the following details to book a meeting:
+
+1. Username
+
+
+2. Room Number
+
+
+3. Meeting Time
+
+
+4. Meeting Date
+
+
+
+Upon successful booking, you will see a confirmation message: "Meeting Booked".
+
+
+
+3. Track Meetings:
+
+Access the Track Meeting section to view all your scheduled meetings.
+
+
+
+4. Update or Delete Meetings:
+
+Easily modify or cancel meetings directly from the Track Meeting section.
+
+
+Technologies Used
+
+Frontend: ASP.NET
+
+Backend: C#
+
+Database: MS Access
+
+IDE: Visual Studio
+
